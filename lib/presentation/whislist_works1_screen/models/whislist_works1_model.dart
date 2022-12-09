@@ -1,0 +1,1 @@
+class WhislistWorks1Model {}
